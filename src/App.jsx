@@ -1,16 +1,5 @@
-/*import React from 'react'
-
-export default function App() {
-  return (
-    <div style={{ textAlign: 'center', padding: '10px' }}>
-      <h1>My React Product Store</h1>
-      <hr />
-    </div>
-  )
-}*/
-
 import React from 'react'
-import ProductCard from './Product-app.jsx' // Notice the hyphen here matching your filename!
+import ProductCard from './Product-app.jsx'
 
 export default function App() {
   const products = [
